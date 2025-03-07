@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"18bbd06a8cba4bbf","type":"text","text":"  Programming with C++","x":-220,"y":-60,"width":250,"height":60,"color":"2"},
+		{"id":"ca03d3383b0d28cf","type":"text","text":"#### [[VARIABLES]]","x":-540,"y":-260,"width":180,"height":60},
+		{"id":"b4e6752bb6b29e5a","type":"text","text":"#### [[Array]]\n","x":-223,"y":290,"width":250,"height":60},
+		{"id":"f49f7097d34fbba7","type":"text","text":"#### [[FUNCTIONS]]\n","x":-734,"y":-66,"width":250,"height":60},
+		{"id":"755aa5d305c6220f","type":"text","text":"Vectors","x":370,"y":-61,"width":250,"height":60},
+		{"id":"9016287cf5e80e7a","type":"text","text":"#### [[operators]]\n","x":-220,"y":-420,"width":240,"height":60},
+		{"id":"d28133dd3834faa8","type":"text","text":"#### [[DATA TYPES]]","x":120,"y":-260,"width":250,"height":60},
+		{"id":"a2ee533547c0f525","x":-740,"y":60,"width":250,"height":60,"type":"text","text":"structure"},
+		{"id":"e90b35146a2ff65c","type":"text","text":"#### [[LOOPS]]","x":200,"y":280,"width":250,"height":60},
+		{"id":"8d69c7d4719d939f","type":"text","text":"Pointers","x":420,"y":160,"width":250,"height":60},
+		{"id":"8236097485050152","type":"text","text":"#### [[IF condition & Switch]]","x":-660,"y":260,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"7366685358f6c28b","fromNode":"18bbd06a8cba4bbf","fromSide":"top","toNode":"d28133dd3834faa8","toSide":"bottom"},
+		{"id":"413e62f5e5740456","fromNode":"18bbd06a8cba4bbf","fromSide":"bottom","toNode":"e90b35146a2ff65c","toSide":"top"},
+		{"id":"93ba65ddb28feec7","fromNode":"18bbd06a8cba4bbf","fromSide":"bottom","toNode":"b4e6752bb6b29e5a","toSide":"top"},
+		{"id":"2b4f0e1ed373c0a9","fromNode":"18bbd06a8cba4bbf","fromSide":"left","toNode":"f49f7097d34fbba7","toSide":"right"},
+		{"id":"3a11e9a393537d61","fromNode":"18bbd06a8cba4bbf","fromSide":"right","toNode":"755aa5d305c6220f","toSide":"left"},
+		{"id":"b47c9bd4293a7a9a","fromNode":"18bbd06a8cba4bbf","fromSide":"bottom","toNode":"8d69c7d4719d939f","toSide":"top"},
+		{"id":"69295d7cc7dc5e4f","fromNode":"18bbd06a8cba4bbf","fromSide":"top","toNode":"ca03d3383b0d28cf","toSide":"bottom"},
+		{"id":"4dfc238a65f5391c","fromNode":"18bbd06a8cba4bbf","fromSide":"top","toNode":"9016287cf5e80e7a","toSide":"bottom"},
+		{"id":"71378f51bd338a11","fromNode":"18bbd06a8cba4bbf","fromSide":"left","toNode":"a2ee533547c0f525","toSide":"right"},
+		{"id":"7012e7594b1a9bfc","fromNode":"18bbd06a8cba4bbf","fromSide":"bottom","toNode":"8236097485050152","toSide":"top"}
+	]
+}
